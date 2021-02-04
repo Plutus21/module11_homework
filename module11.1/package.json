@@ -1,0 +1,11 @@
+{
+  "name": "module11.1",
+  "version": "1.0.0",
+  "dependencies": "Unit",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
